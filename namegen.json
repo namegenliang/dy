@@ -435,7 +435,7 @@
     {
       "name": "catvod.com",
       "type": 0,
-      "url": "https://js.catvod.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "url": "https://tv.catvod.com/tv.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15"
     }
