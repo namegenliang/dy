@@ -5,7 +5,7 @@
 # 配置地址
 ```
 
- https://js.catvod.com/https://raw.githubusercontent.com/namegenliang/dy/main/namegen.json
+ https://github.catvod.com/https://raw.githubusercontent.com/namegenliang/dy/main/namegen.json
 
 ```
 
