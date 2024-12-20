@@ -435,7 +435,7 @@
     {
       "name": "catvod.com",
       "type": 0,
-      "url": "https://tv.catvod.com/tv.m3u",
+      "url": "https://iptv.catvod.com/tv.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15"
     }
