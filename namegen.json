@@ -104,15 +104,6 @@
       "filterable": 1
     },
     {
-      "key": "荐片",
-      "name": "荐片",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "新6V",
       "name": "新6V",
       "type": 3,
