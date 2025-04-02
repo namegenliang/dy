@@ -87,24 +87,6 @@
       "filterable": 1
     },    
     {
-      "key": "ikanbot",
-      "name": "ikanbot",
-      "type": 3,
-      "playerType": "2",
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/ik.js"
-    },
-    {
-      "key": "采集之王",
-      "name": "采集之王",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "order_num": 142,
-      "ext": "./js/采集之王.js?type=url&params=./js/采集静态.json$1$1"
-    },
-    {
       "key": "急救",
       "name": "急救",
       "type": 3,
