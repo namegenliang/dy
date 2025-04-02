@@ -9,10 +9,11 @@
 {
   "spider": "https://github.catvod.com/https://raw.githubusercontent.com/namegenliang/dy/main/namegen.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4",
   "wallpaper": "https://imgs.catvod.com",
+  "logo": "https://tvbox.catvod.com/logo.png",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "豆瓣",
+      "name": "www.Catvod.com 本站（所有内容仅供测试学习使用，请勿用于违法用途。）",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 1,
@@ -95,242 +96,6 @@
       "ext": "./js/采集之王.js?type=url&params=./js/采集静态.json$1$1"
     },
     {
-      "key": "快看",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "新6V",
-      "name": "新6V",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "电影港",
-      "name": "电影港",
-      "type": 3,
-      "api": "csp_DyGang",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Xunlei8",
-      "name": "Xunlei8",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "晴天",
-      "name": "晴天",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/qingtian.json"
-    },
-    {
-      "key": "heihu",
-      "name": "黑狐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/heihu.json"
-    },
-    {
-      "key": "bugutv",
-      "name": "布谷",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/bugutv.json"
-    },
-    {
-      "key": "98dyb",
-      "name": "玖八",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/98dyb.json"
-    },
-    {
-      "key": "5555kan",
-      "name": "55影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/5555kan.json"
-    },
-    {
-      "key": "baipiaozhe",
-      "name": "白嫖者",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/baipiaozhe.json"
-    },
-    {
-      "key": "guangun",
-      "name": "光棍",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/guangun.json"
-    },
-    {
-      "key": "qiyou",
-      "name": "奇优",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/qiyou.json"
-    },
-    {
-      "key": "TVB",
-      "name": "TVB云播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/TVB.json"
-    },
-    {
-      "key": "77ys",
-      "name": "77影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/77ys.json"
-    },
-    {
-      "key": "bzhan",
-      "name": "超点",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/bzhan.json"
-    },
-    {
-      "key": "haole",
-      "name": "好乐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/haole.json"
-    },
-    {
-      "key": "hitv",
-      "name": "好影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/hitv.json"
-    },
-    {
-      "key": "jkv",
-      "name": "即看",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/jkv.json"
-    },
-    {
-      "key": "pianba",
-      "name": "片吧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/pianba.json"
-    },
-    {
-      "key": "rebo",
-      "name": "热播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/rebo.json"
-    },
-    {
-      "key": "xcy",
-      "name": "星辰",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/xcy.json"
-    },
-    {
-      "key": "Movies",
-      "name": "Movies",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/Movies.json"
-    },
-    {
-      "key": "sdsrty",
-      "name": "影视大全",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/sdsrty.json"
-    },
-    {
-      "key": "db",
-      "name": "电波",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/db.json"
-    },
-    {
       "key": "急救",
       "name": "急救",
       "type": 3,
@@ -364,41 +129,6 @@
       "name": "VIP1",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "VIP2",
-      "type": 0,
-      "url": "https://t1.qlplayer.cyou/player/?url="
-    },
-    {
-      "name": "VIP3",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jx/jx.php?url="
-    },
-    {
-      "name": "VIP4",
-      "type": 0,
-      "url": "https://yparse.ik9.cc/index.php?url="
-    },
-    {
-      "name": "VIP5",
-      "type": 0,
-      "url": "https://player.mrgaocloud.com/player/?url="
-    },
-    {
-      "name": "VIP6",
-      "type": 0,
-      "url": "https://jx.yangtu.top/?url="
-    },
-    {
-      "name": "VIP7",
-      "type": 0,
-      "url": "https://www.8090g.cn/jiexi/?url="
-    },
-    {
-      "name": "VIP8",
-      "type": 0,
-      "url": "https://jx.2s0.cn/player/?url="
     }
   ],
   "flags": [
@@ -429,13 +159,5 @@
       "url": "https://iptv.catvod.com/tv.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15"
-    },
-    {
-      "name": "catvod.com(备用)",
-      "type": 0,
-      "url": "https://live.catvod.com/tv.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15"
-    }    
-  ]
+    }
 }
