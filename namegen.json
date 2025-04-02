@@ -78,6 +78,15 @@
       "ext": "./js/bili.js"
     },
     {
+      "key": "聚合直播",
+      "name": "聚合直播",
+      "type": 3,
+      "api": "csp_Living",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
       "key": "ikanbot",
       "name": "ikanbot",
       "type": 3,
